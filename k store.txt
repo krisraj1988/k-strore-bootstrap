@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang='en'>
+<body>
+<p> we are the premier grocery stores in newyork city
+located at 40000 broad street newyork city
+we have the special products BEGALS</p>
+
+<p> special products BEGALS</p>
+</body>
+</html>

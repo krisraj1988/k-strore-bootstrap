@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<title>a shopping website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="../" class="navbar-brand">K-MARKET</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="GROCERY">GROCERY <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="GROCERY">
+                <li><a href="../default/">Default</a></li>
+                <li class="divider"></li>
+                <li><a href="../milk/">milk</a></li>
+                <li><a href="../salt/">salt</a></li>
+                <li><a href="../cheese/">cheese</a></li>
+                <li><a href="../bread flour/">bread flour</a></li>
+                <li><a href="../meat/">meat</a></li>
+
+              </ul>
+            </li>
+            
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="deli">DELI <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="DELI">
+                <li><a href="../tea/">TEA</a></li>
+                <li class="divider"></li>
+                <li><a href="./bootstrap.min.css">bootstrap.min.css</a></li>
+                <li><a href="./bootstrap.css">bootstrap.css</a></li>
+                <li class="divider"></li>
+                <li><a href="./variables.less">variables.less</a></li>
+                <li><a href="./bootswatch.less">bootswatch.less</a></li>
+                <li class="divider"></li>
+                <li><a href="./_variables.scss">_variables.scss</a></li>
+                <li><a href="./_bootswatch.scss">_bootswatch.scss</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="about_us.html ">ABOUT US</a>
+
+
+            </li>
+            <li>
+              <a href="http://www.google.com">CONTACT US</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+<script src="js/jquer.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
